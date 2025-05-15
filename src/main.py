@@ -72,7 +72,7 @@ def load():
     "LocalNoteMinHour": 7,
     "LocalNoteSquelchList": "events",
     "MaxConcurrentDownloads_Standard": 8,
-    "MinimumAppVersion": "1.50.2",
+    "MinimumAppVersion": "1.61.37",
     "MinimumAppVersionHeaderTextKey": "AppOutOfDate_ThanksForPlaying_Header",
     "MinimumAppVersionTextKey": "UPDATE_REQUIRED",
     "MultiplayerBaseUrlProd": \"""" + root() + \
